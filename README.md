@@ -259,9 +259,7 @@ ChronoCode's 3D visualization system was inspired by innovative approaches in AI
 
 ---
 
-## 📝 License
 
-MIT - Same as Vibecraft
 
 ---
 
@@ -273,9 +271,7 @@ ChronoCode demonstrates how AI coding tools can be:
 - **Debuggable** (time-travel to find issues)
 - **Delightful** (beautiful 3D visualization)
 
-**Demo Video**: [Watch on YouTube](#)
 
-**Try it now**: [chronocode.dev](#)
 
 ---
 
