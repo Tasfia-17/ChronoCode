@@ -93,18 +93,6 @@ chronocode setup
 chronocode
 ```
 
-Open http://localhost:4003 and start coding with Claude!
-
-**From source:**
-```bash
-git clone https://github.com/yourusername/chronocode
-cd chronocode
-npm install
-npm run dev
-# Opens on http://localhost:4002
-```
-
----
 
 ## ⏰ Using TimeCraft
 
